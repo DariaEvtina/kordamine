@@ -1,0 +1,7 @@
+C:\Users\opilane\source\repos\DariaEvtina_TARpv20\Kordamine\bin\Debug\Kordamine.exe.config
+C:\Users\opilane\source\repos\DariaEvtina_TARpv20\Kordamine\bin\Debug\Kordamine.exe
+C:\Users\opilane\source\repos\DariaEvtina_TARpv20\Kordamine\bin\Debug\Kordamine.pdb
+C:\Users\opilane\source\repos\DariaEvtina_TARpv20\Kordamine\obj\Debug\Kordamine.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\DariaEvtina_TARpv20\Kordamine\obj\Debug\Kordamine.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\DariaEvtina_TARpv20\Kordamine\obj\Debug\Kordamine.exe
+C:\Users\opilane\source\repos\DariaEvtina_TARpv20\Kordamine\obj\Debug\Kordamine.pdb
